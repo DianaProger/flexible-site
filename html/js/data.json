@@ -1,0 +1,26 @@
+[
+    {
+        "img": "../css/img/001.jpg",
+        "title": "Мышь проводная ARDOR GAMING Fury",
+        "number": "1599 ₽",
+        "vendor_code": "001"
+    },
+    {
+        "img": "../css/img/002.jpg",
+        "title": "Кулер для процессора ID-COOLING",
+        "number": "2199 ₽",
+        "vendor_code": "002"
+    },
+    {
+        "img": "../css/img/003.jpg",
+        "title": "Память USB Flash 64 ГБ ADATA UR340",
+        "number": "599 ₽",
+        "vendor_code": "003"
+    },
+    {
+        "img": "../css/img/004.jpg",
+        "title": "Блок питания Cougar STE 600W V2",
+        "number": "2799 ₽",
+        "vendor_code": "004"
+    }
+]
