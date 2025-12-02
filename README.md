@@ -1,1 +1,1 @@
-Сайт: https://dianaproger.github.io/flexible-site/html
+Сайт: https://dianaproger.github.io/flexible-site/html/site/index.html
